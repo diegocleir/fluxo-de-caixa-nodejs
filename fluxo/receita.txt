@@ -1,0 +1,15 @@
+﻿1) Definir o banco de dados 
+2) Definir estrutura de pasta
+2) Definir o arquivo PHP
+4) Definir o arquivo de autenticação 
+5) Definir o arquivo principal.php 
+5) Definir o arquivo app.js 
+6) Definir o arquivo viewport.js
+7) Definir o arquivo menu.php
+8) Definir o arquivo model
+9) Definir o arquivo storage
+10) Definir o arquivo list
+11) Definir o arquivo edit
+12) Definir o controller  
+
+Não esqueça de adicionar os controllers no arquivo app.js na linha 28. 

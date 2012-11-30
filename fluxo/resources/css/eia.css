@@ -1,0 +1,37 @@
+.add {
+  background-image:url('../images/add.png') !important;
+}
+.cancel {
+  background-image:url('../images/cancel.png') !important;
+}
+.delete {
+  background-image:url('../images/delete.png') !important;
+}
+.save {
+  background-image:url('../images/disk.png') !important;
+}
+.edit {
+  background-image:url('../images/pencil.png') !important;
+}
+.refresh {
+  background-image:url('../images/refresh.gif') !important;
+}
+.expand {
+  background-image:url('../images/expand.png') !important;
+}
+.collapse {
+  background-image:url('../images/collapse.png') !important;
+}
+
+#header {
+    background: #7F99BE url(../images/header.gif) repeat-x center;
+}
+#header h1 {
+    font-size: 15px;
+    color: #fff;
+    font-weight: normal;
+    padding: 5px 10px;
+    font-family: sans-serif;
+}
+
+h1,p { font-family:arial; }
