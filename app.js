@@ -1,4 +1,4 @@
-var express = require('express'),
+﻿var express = require('express'),
 	app = express(),
 	mysql = require('mysql');
 
@@ -85,7 +85,7 @@ app.post('/fluxos/list', function (req, res) {
 			sort = '1';
 		}
 		if(!dir){
-			sort = 'ASC';
+			dir = 'ASC';
 		}
 		
 		var strSQL = 'SELECT idFluxo, conta_id, dsDescricao, NuValor, dtFluxo FROM fluxo ORDER BY ' + sort + ' ' + dir;
